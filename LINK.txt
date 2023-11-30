@@ -1,0 +1,4 @@
+https://github.com/juliangomez20/PRACTICA6
+Buenas profe, adjunto el link al repo; como le explique, del codigo "Practica 6" hay un analisis y compresión; trabaje en comprenderlo pero el codigo no es de mi autoria.
+La carpeta PC6 fue mi implementación.
+Muchas gracias :)
